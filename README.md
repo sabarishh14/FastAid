@@ -15,7 +15,7 @@ The administrator menu has got many options to use this program which are mentio
 6.  COVID-19 CHECK
 7.  EXIT
 
-## SIGN UP - For Creating A New Account
+### SIGN UP - For Creating A New Account
 The user has to first create a new account if he/she doesn’t have one before going on with the rest of the program. For that, the user has to enter the following details.  
 •	NAME
 •	USERNAME
