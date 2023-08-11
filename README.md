@@ -5,7 +5,7 @@ Created using Python and various libraries, including Tkinter, FAST AID offers e
 for efficient management. With a focus on real-life situations and a user-friendly interface, FAST AID promotes accessibility for all users 
 seeking quality medical care during the ongoing COVID-19 pandemic.
 
-##HOW TO USE FAST AID?
+## HOW TO USE FAST AID?
 The administrator menu has got many options to use this program which are mentioned below:
 1.	SIGN UP                                                 
 2.	SIGN IN                                                 
